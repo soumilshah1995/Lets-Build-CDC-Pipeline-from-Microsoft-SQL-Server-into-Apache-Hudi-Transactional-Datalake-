@@ -219,9 +219,9 @@ class DatabaseSQLServer(DatabaseInterface):
 def main():
     ON_SQL_SERVER = DatabaseSQLServer(
         data_base_settings=Settings(
-            server="dev-cluster.c2pyeuq06upn.us-east-1.rds.amazonaws.com",
-            username="admin",
-            password="Admin12345",
+            server="XXXXXXXX",
+            username="XXXXX",
+            password="XXXXXXXXX",
             database_name="edw"
         )
     )
