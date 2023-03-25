@@ -57,11 +57,15 @@ EXECUTE sys.sp_cdc_change_job
 
 
 
-# Step 5: Create DMS Source and Target as shown in video 
+# Step 5: Create DMS Source and Target and Task as shown in video guide 
+
+
 
 # Step 6: Create your Batch Glue ETC which will take data from raw source and create transcational datalake 
+![image](https://user-images.githubusercontent.com/39345855/227725475-8ee8b10d-c2d7-4e28-bc8e-5d3d12757e95.png)
 
 
+# Step 7: Query the data via Athena
+![image](https://user-images.githubusercontent.com/39345855/227725531-e9889b56-d33c-4456-9696-4f0695bf7e04.png)
 
 
-# Adding code and steps shortly 
